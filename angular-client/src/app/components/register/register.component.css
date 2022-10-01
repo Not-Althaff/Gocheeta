@@ -1,0 +1,39 @@
+.login-box {
+    margin: 0 auto;
+    width: 30%;
+    margin-top: 10px;
+    opacity: .9;
+    margin-left: 1000px;
+}
+
+mat-card {
+    height: 550px;
+}
+
+mat-card-header {
+    background-color: rgb(255, 255, 255);
+    line-height: 30px;
+    height: 30px;
+}
+
+mat-card-content {
+    padding: 16px;
+}
+
+mat-radio-button {
+    margin-right: 16px;
+}
+
+
+mat-form-field {
+    margin-top: 20px;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.mat-divider {
+    margin-top: 16px;
+    margin-bottom: 26px;
+}
